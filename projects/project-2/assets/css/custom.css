@@ -12,6 +12,34 @@
     min-height: 300px;
 }
 
+#give-main-image {
+    background-image: url(../img/give-page-large-image-lady-helping-memaw-into-car.jpg);
+    background-size: cover;
+}
+
+#give-main-image .cell {
+    min-height: 300px;
+}
+
+#get-main-image {
+    background-image: url(../img/get-page-large-image-two-memaws.jpg);
+    background-size: cover;
+}
+
+#get-main-image .cell {
+    min-height: 300px;
+}
+
+
+#gift-main-image {
+    background-image: url(../img/gift-page-large-image-meman-reading.jpg);
+    background-size: cover;
+}
+
+#gift-main-image .cell {
+    min-height: 300px;
+}
+
 blockquote {
     font-style: italic;
 }
